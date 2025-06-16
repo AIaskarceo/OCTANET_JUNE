@@ -1,0 +1,16 @@
+@import "tailwindcss";
+html {
+  scroll-behavior: smooth;
+}
+.td-black-glow {
+  text-shadow:
+    2px 2px 6px black,
+    0 0 12px black,
+    0 0 20px black;
+}
+
+.td-box-glow:hover{
+  box-shadow:   
+    0px 0px 6px black;
+    transition: ease 0.2s;
+}
