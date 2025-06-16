@@ -8,7 +8,20 @@ html {
     0 0 12px black,
     0 0 20px black;
 }
-
+.td-teal-glow:hover {
+  text-shadow:
+    2px 2px 6px rgba(21, 125, 170, 0.752),
+    0 0 12px rgba(21, 125, 170, 0.752),
+    0 0 20px rgba(21, 125, 170, 0.752);
+    transition: ease 0.4s;
+}
+.td-gn-glow:hover {
+  text-shadow:
+    2px 2px 6px rgba(21, 170, 133, 0.596),
+    0 0 12px rgba(21, 170, 133, 0.596),
+    0 0 20px rgba(21, 170, 133, 0.596);
+    transition: ease 0.4s;
+}
 .td-box-glow:hover{
   box-shadow:   
     0px 0px 6px black;

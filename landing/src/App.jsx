@@ -19,8 +19,8 @@ function App() {
       {/* Hero Section */}
       <section id="home" className="h-screen flex items-center justify-center bg-gradient-to-br from-gray-900 to-gray-800 px-6 pt-24">
         <div className="text-center">
-          <h2 className="text-4xl md:text-5xl font-bold mb-4 text-white td-black-glow">Welcome to My Project</h2>
-          <p className="text-gray-300 max-w-xl mx-auto green td-black-glow">
+          <h2 className="text-4xl md:text-5xl font-bold mb-4 text-white td-black-glow td-teal-glow">Welcome to My Project</h2>
+          <p className="text-gray-300 max-w-xl mx-auto green td-black-glow td-gn-glow">
             "Experiential learning is one of the most effective approaches to gaining knowledge and skills."
           </p>
         </div>
